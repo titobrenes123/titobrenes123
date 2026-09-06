@@ -134,10 +134,10 @@ status:      open to engagements ✅
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/24d8d4da-fd4a-4318-9d25-f1003dc9133d"><img src="https://images.credly.com/size/110x110/images/16d3e89c-4af5-47d8-a502-2a93b02c26d4/image.png" width="110" alt="Professional Cloud Architect" /></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/513e12fe-7927-4ad0-98fa-c4ecdc957818"><img src="https://images.credly.com/size/110x110/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="110" alt="Professional Google Workspace Administrator" /></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/64438ff5-daf2-44ea-b275-ec7924554dbd"><img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="110" alt="Associate Cloud Engineer" /></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/e6778acd-0575-4064-92c5-3a06caf07fd2"><img src="https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="110" alt="Cloud Digital Leader" /></a>
+<a href="https://www.credly.com/badges/24d8d4da-fd4a-4318-9d25-f1003dc9133d"><img src="https://images.credly.com/size/110x110/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="110" alt="Professional Cloud Architect" /></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/513e12fe-7927-4ad0-98fa-c4ecdc957818"><img src="https://images.credly.com/size/110x110/images/16d3e89c-4af5-47d8-a502-2a93b02c26d4/image.png" width="110" alt="Professional Google Workspace Administrator" /></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/64438ff5-daf2-44ea-b275-ec7924554dbd"><img src="https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="110" alt="Associate Cloud Engineer" /></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/e6778acd-0575-4064-92c5-3a06caf07fd2"><img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="110" alt="Cloud Digital Leader" /></a>
 
 | Credential | Tier | Verify |
 | --- | :---: | :---: |

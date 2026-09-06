@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Leonardo Gonzalez · Google Cloud Architect · Workspace Specialist · Email Deliverability" />
+<img src="assets/banner.svg" width="100%" alt="Leonardo Gonzalez · Google Cloud Architect · Workspace Specialist · Email Deliverability" />
 
 <br/>
 
